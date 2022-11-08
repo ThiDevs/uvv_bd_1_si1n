@@ -1,1 +1,5 @@
-# uvv_bd_1_si1n
+# Thiago Felicio Alves
+###### _Professor:_ Abrantes
+
+O intuito desse projeto do GitHub é para justamente estudar, aprender e praticar a utilização da ferramenta para futuros projetos feitos em faculdade.
+
